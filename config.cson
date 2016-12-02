@@ -1,0 +1,10 @@
+"*":
+  editor: {}
+  "exception-reporting":
+    userId: "522719d8-416a-1ea8-2e2f-baa143e22a74"
+  minimap:
+    plugins:
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false
